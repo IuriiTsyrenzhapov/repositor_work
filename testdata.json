@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "username": "tsyrenzhapov@gmail.com",
+    "password": "Wassailer2024",
+    "message": "Hello, Cypress"
+  },
+  "invalidUser": {
+    "username": "invalid_username",
+    "password": "invalid_password",
+    "message": "This is an invalid user."
+  }
+}
